@@ -27,7 +27,7 @@ geopy>=2.3.0
 
 ## NLP
 nltk>=3.8.0
-
+plotly
 ## Visualization
 pydeck>=0.8.0
 
